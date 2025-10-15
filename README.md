@@ -6,7 +6,7 @@ This project features animated **planets orbiting the sun**, **glowing effects**
 ---
 
 ## 🚀 Live Demo
-🔗 **View Online:** [https://nazrulislam1835.github.io/solar-system-animation/](https://nazrulislam1835.github.io/solar-system-animation/)
+🔗 **View Online:** [CLICK HERE](https://nazrulislam1835.github.io/Solar-System-Animation/)
 
 ---
 
