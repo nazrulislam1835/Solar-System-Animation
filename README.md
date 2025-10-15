@@ -37,7 +37,7 @@ This project features animated **planets orbiting the sun**, **glowing effects**
 
 ## 🚀 Preview
 
-![Project Preview](screenshot.png)
+![Project Preview](images/screenshot.png)
 
 📄 License
 This project is licensed under the MIT License — feel free to use and modify it.
