@@ -203,43 +203,43 @@
       animation-delay: 2.5s;
     }
     .star:nth-child(9) {
-      left: 0%;
+      left: -1%;
       top: 20%;
       animation-duration: 5s;
       animation-delay: 3s;
     }
     .star:nth-child(10) {
-      left: 0%;
+      left: -1%;
       top: 35%;
       animation-duration: 5s;
       animation-delay: 2s;
     }
     .star:nth-child(11) {
-      left: 0%;
+      left: -1%;
       top: 50%;
       animation-duration: 3.5s;
       animation-delay: 1.5s;
     }
     .star:nth-child(12) {
-      left: 0%;
+      left: -1%;
       top: 65%;
       animation-duration: 5s;
       animation-delay: 4s;
     }
     .star:nth-child(13) {
-      left: 0%;
+      left: -1%;
       top: 80%;
       animation-duration: 4s;
       animation-delay: 2.5s;
     }
     .star:nth-child(14) {
-      left: 0%;
+      left: -1%;
       top: 95%;
       animation-duration: 5s;
       animation-delay: 3s;
     }
     .star:nth-child(15) {
-      left: 0%;
+      left: -1%;
       top: 10%;
       animation-duration: 5s;
       animation-delay: 1s;
