@@ -32,7 +32,7 @@ This project features animated **planets orbiting the sun**, **glowing effects**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/solar-system-animation.git
+   https://github.com/nazrulislam1835/Solar-System-Animation
 
 
 ## 🚀 Preview
