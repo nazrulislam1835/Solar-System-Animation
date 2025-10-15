@@ -37,12 +37,6 @@ This project features animated **planets orbiting the sun**, **glowing effects**
 
 ![Preview](screenshot.png)
 
-solar-system-animation/
-│
-├── index.html        # Main HTML file
-├── README.md         # Project documentation
-└── screenshot.png    # Optional preview image
-
 📄 License
 This project is licensed under the MIT License — feel free to use and modify it.
 
