@@ -35,7 +35,9 @@ This project features animated **planets orbiting the sun**, **glowing effects**
    git clone https://github.com/your-username/solar-system-animation.git
 
 
-![Preview](screenshot.png)
+## 🚀 Preview
+
+![Project Preview](screenshot.png)
 
 📄 License
 This project is licensed under the MIT License — feel free to use and modify it.
