@@ -6,7 +6,8 @@ This project features animated **planets orbiting the sun**, **glowing effects**
 ---
 
 ## 🚀 Live Demo
-[![Live Preview](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://nazrulislam1835.github.io/Solar-System-Animation/)
+
+[![Learnatic Live Preview](./images/screenshot.png)](https://nazrulislam1835.github.io/Learnatic2/)
 
 ---
 
